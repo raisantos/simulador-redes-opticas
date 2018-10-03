@@ -1,0 +1,4 @@
+Número de chamadas: 100
+Comprimento de onde: 10
+Número de bloqueios: 73
+Taxa de bloqueio: 7.3
